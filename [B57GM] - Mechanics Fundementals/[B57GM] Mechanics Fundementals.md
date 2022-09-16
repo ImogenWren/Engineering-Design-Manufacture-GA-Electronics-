@@ -47,11 +47,6 @@
 
  Can be calculated:
 
-$$
-
-(Q * Ua)/(Q * Ub) *  (Q * gUc)/(Q * Ua) * (Q * Ub/Q* hUd) = (P Uc)/ (P Ud)
-
-
-$$
+$$(Q * Ua)/(Q * Ub) *  (Q * gUc)/(Q * Ua) * (Q * Ub/Q* hUd) = (P Uc)/ (P Ud)$$
 
 ## Doing Maths 
