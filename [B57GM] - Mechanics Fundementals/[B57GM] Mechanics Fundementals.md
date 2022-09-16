@@ -38,12 +38,20 @@
 
 ## Converting Units by Cross Multiplication
 
- $Q [U]/[U] = P[SI]/[SI] $
+ $Q [Ua]/[Ub] = P[Uc]/[Ud] $
+ 
+ Conversion Factors:
+ 
+ Ua = gUc
+ Ub = hUd
 
  Can be calculated:
 
- $$ 
+$$
+
+(Q * Ua)/(Q * Ub) *  (Q * gUc)/(Q * Ua) * (Q * Ub/Q* hUd) = (P Uc)/ (P Ud)
 
 
+$$
 
 ## Doing Maths 
